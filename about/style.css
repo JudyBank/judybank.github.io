@@ -1,3 +1,32 @@
-body {
-    background-color: blue;
+body {    
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(4, 32, 74);
+    color: white;
+}
+
+.socialicon {
+    margin: 50px;
+    margin-top: 5px;
+    margin-bottom: 3px;
+    border: 0px solid #fff;
+    border-radius: 20%;
+    display: flex;
+    height: auto;
+    width: 13%;
+}
+
+.socialmedia {
+    border: 0px #fff solid;
+    border-radius: 5%;
+    background-color: rgb(14, 90, 152);
+}
+
+.greets {
+    text-align: center;
+    border: 0px #fff solid;
+    border-radius: 10%;
+    background-color: rgb(0, 174, 255);
+    margin: 5px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
